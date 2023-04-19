@@ -1,0 +1,7 @@
+Welcome in this folder!
+
+This folder contains several bot programs in the subfolder "lib".
+There is only one test (in spec) to make sure the API link works. 
+
+If you dowload these files, to use it, you have to add an .env file with your API key.
+Gook luck!
